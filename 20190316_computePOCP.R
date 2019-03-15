@@ -52,7 +52,7 @@ for (i in (1:dim(genome.comn)[2]) ) {
   b.seq.df <- data.frame(b.seq.list, b.seq.length)
   colnames(b.seq.df) <- c('V1','length')
   
-  print('-- Blasting: ',a.header,' - VS - ',b.header)
+  print(paste0('-- Blasting: ',a.header,' - VS - ',b.header))
   # blast forward
   result.forward <- paste0(a.header,'_VS_',b.header,'.tab')
   system(paste0(blast.comm1, a.genome, 
