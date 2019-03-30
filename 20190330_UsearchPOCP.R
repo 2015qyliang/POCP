@@ -1,4 +1,7 @@
 # replace blastp with usearch -- ublast
+# download usearch tool from https://www.drive5.com/usearch/download.html
+# simplify useaerch tool's name, usearch.exe
+# add the path of usearch.exe to system env path
 
 library(dplyr)
 library(seqinr)
