@@ -1,15 +1,21 @@
 # POCP
 ## 计算两个细菌基因组之间的核心蛋白相似性
 参考文献:
+
 题目：[《A Proposed Genus Boundary for the Prokaryotes Based on Genomic Insights》](https://jb.asm.org/content/196/12/2210) 
+
 链接: http://pdfs.semanticscholar.org/cd47/994ff226f6f26874c9c731a82320e3e27476.pdf
 
 ---
 
 2019-11-12
-使用预配置好的安装包 computePOCP_v1.zip, 可在 windows 系统平台下直接使用解压之后 运算脚本 JustRunThis.R; 
+使用预配置好的安装包 computePOCP_v*.zip, 可在 windows 系统平台下直接使用解压之后 运算脚本 JustRunThis.R; 
+
 在该脚本中调用了可在 Windows 系统下运行的 [prodigal](https://github.com/hyattpd/Prodigal/releases) 和 [diamond](https://github.com/bbuchfink/diamond/releases) 两个软件;
+
 prodigal -- 仅用于预测基因的氨基酸序列; diamond -- 用于蛋白之间的两两比对计算相似性
+
+If cite, please reference: https://github.com/2015qyliang/POCP
 
 ---
 
