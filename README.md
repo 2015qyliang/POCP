@@ -12,7 +12,7 @@
 
 使用预配置好的安装包 computePOCP_v*.zip, 可在 windows 系统平台下直接使用解压之后 运算脚本 JustRunThis.R; 
 
-在该脚本中调用了可在 Windows 系统下运行的 [prodigal](https://github.com/hyattpd/Prodigal/releases) 和 [diamond](https://github.com/bbuchfink/diamond/releases) 两个软件; 同时, 在 R 中导入了两个分析包 data.table 和 seqinr, 如果之前没有预安装过, 可使用 install.packages(c("data.table", "seqinr")) 安装相应的分析包. 
+在该脚本中调用了可在 Windows 系统下运行的 [prodigal](https://github.com/hyattpd/Prodigal/releases) 和 [diamond](https://github.com/bbuchfink/diamond/releases) 两个软件; 同时, 在 R 中导入了两个分析包 data.table 和 seqinr, 如果之前没有预安装过, 可使用 install.packages(c("data.table", "seqinr")) 安装相应的分析包; 万事俱备之后, 直接运行 JustRunThis.R 即可...
 
 prodigal -- 仅用于预测基因的氨基酸序列; diamond -- 用于蛋白之间的两两比对计算相似性
 
