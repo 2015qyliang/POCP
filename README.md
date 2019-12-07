@@ -6,7 +6,7 @@
 
 链接: http://pdfs.semanticscholar.org/cd47/994ff226f6f26874c9c731a82320e3e27476.pdf
 
-**If cite, please reference: https://github.com/2015qyliang/POCP**
+**If cite this process, please: https://github.com/2015qyliang/POCP**
 
 ---
 
