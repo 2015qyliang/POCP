@@ -8,6 +8,16 @@
 
 ---
 
+## 2019-12-07
+
+add **>> Just One Step <<**
+
+- **解放双手 ==>> To Think!!!**
+
+仅需在 windows 系统平台下运行 **startRun.bat** 即可; 使用者仅仅提供已完成基因组测序细菌基因组核酸序列即可, 将其存放在 **GenomeFiles** 文件夹中, 序列文件的命名需要使用下划线将物种名进行连接, 同时文件的后缀为 .fasta, 文件名示例: **Bdellovibrio_bacteriovorus_109J.fasta**
+
+---
+
 ## 2019-11-12
 
 使用预配置好的安装包 computePOCP_v*.zip, 可在 windows 系统平台下直接使用解压之后 运算脚本 JustRunThis.R; 
