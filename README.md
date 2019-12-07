@@ -6,6 +6,8 @@
 
 链接: http://pdfs.semanticscholar.org/cd47/994ff226f6f26874c9c731a82320e3e27476.pdf
 
+**If cite, please reference: https://github.com/2015qyliang/POCP**
+
 ---
 
 ## 2019-12-07
@@ -27,8 +29,6 @@ add **>> Just One Step <<**
 prodigal -- 仅用于预测基因的氨基酸序列; diamond -- 用于蛋白之间的两两比对计算相似性
 
 使用须知: 仅需要提供细菌基因组 fasta 格式的核酸序列, 文件的命名参考 "Genus_species_strain.fasta", 使用下划线连接字符.
-
-**If cite, please reference: https://github.com/2015qyliang/POCP**
 
 ---
 
