@@ -1,4 +1,12 @@
-# POCP
+## 2020-07-28
+
+在windows平台下计算 核心蛋白相似性(POCP)和平均氨基酸相似性(average amino acid identity, AAI); 借助 diamond 计算 POCP和AAI, 借助 blastp (2.9.0+) 计算 AAI. 
+
+其中 AAI 的计算公式参考 [comparem](https://github.com/dparks1134/CompareM).
+
+---
+
+## POCP
 ## 计算两个细菌基因组之间的核心蛋白相似性
 参考文献:
 
